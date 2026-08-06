@@ -12,7 +12,7 @@ calendar are in `ippt-plan.md`.
 
 - **Baseline 2.4 km:** 12:37 recorded 31 Jul on a −12.2 m course → **~12:50 flat-corrected**
 - **Observed HRmax:** 200 → easy cap **≤150**, tempo 172–182, intervals 185–195
-- **Calf status (5 Aug):** mild tightness, no pain
+- **Calf status (6 Aug):** clear — tightness fully resolved after one rest day
 - **Outstanding:** push-up and sit-up test numbers never taken — all target times remain
   provisional until reported
 - **Enlistment:** likely January 2027. A-Levels Oct–Nov 2026.
@@ -25,9 +25,11 @@ sat under the 150 cap, a 5:35/km surge at 3.2 km pushed HR to 189, then pace fel
 with HR still above 180. Came the day after intervals, with squash also in the same 5-day
 block. Not an easy run.
 
-### Thu 6 Aug 2026 — PRESCRIBED: full rest + calf conditioning #1
-Straight-leg calf raise 3×12 slow (3 s down), seated/bent-knee calf raise 3×15.
-_Awaiting report._
+### Thu 6 Aug 2026 — Full rest. Executed as prescribed.
+Calf tightness **fully resolved** after a single day off. That is the useful finding: the
+recurring calf soreness is load- and warmup-driven, not structural. Nothing to manage as an
+injury, but it confirms the warmup protocol is the actual fix and is non-optional.
+Calf conditioning #1 (straight-leg 3×12 slow, bent-knee 3×15) prescribed for the evening.
 
 ### Fri 7 Aug 2026 — PRESCRIBED: 30 min easy, HR ≤150, full 10-min warmup
 Expect 7:45–8:15/km. Pace is irrelevant; the cap is the session.
