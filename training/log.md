@@ -16,9 +16,11 @@ calendar are in `ippt-plan.md`.
   *Revised 9 Aug — the original flat 150 cap forced walking late in runs because of heat
   drift. Do not re-prescribe a hard 150 cap. Talk test governs: a full spoken sentence should
   be comfortable.*
-- **Key progress metric:** pace at HR 150 over the first 10 min of an easy run, same route.
-  Currently ≈8:00/km (from the 5 Aug splits: 8:05/km read HR 150 at 800 m). Expect a clear
-  drop within 3–4 weeks; if it does not move, the plan needs revisiting.
+- **Key progress metric:** pace at HR ~145–150 over the first km of an easy run, flat-ish
+  ground. **Measured 9 Aug: 8:55/km at HR 144.** Target under 8:00/km at the same HR within
+  ~4 weeks. If it does not move, the plan needs revisiting.
+- **Known issue — severe cardiac drift.** 9 Aug: pace fell 2:16/km over 38 min at flat HR.
+  Expect any easy run past ~25 min to degenerate into a walk unless pace is held deliberately.
 - **Calf status (6 Aug):** clear — tightness fully resolved after one rest day
 - **Static stations (tested 6 Aug):** 40 push-ups, 40 sit-ups. Max for age group 1 is 60/60.
 - **Static training:** 3×/week, 5 sets at 60–70% of max (24–28 reps), push-ups 90 s rest /
@@ -79,11 +81,34 @@ the watch item above.
 
 ### Sat 8 Aug 2026 — Not trained. Second consecutive dropped easy day.
 
-### Sun 9 Aug 2026 — PRESCRIBED: 35 min easy (HR ≤150) + static session #1
-Squash moved to Mon 10, so the easy run takes today. Fully rested — four days off since the
-5 Aug run. Full 10-min warmup. Then push-ups 5×25 (90 s rest), sit-ups 5×25 (60 s rest),
-roughly 60–70% of tested max. Volume work, not a max test.
-_Awaiting report._
+### Sun 9 Aug 2026 — 3.8 km, 38:26 moving, avg 9:52/km. Avg HR 147, max 163.
+
+**Executed. First genuinely easy run in the whole dataset** — every prior run averaged
+170–189 bpm.
+
+| Split | Pace | Elev | HR |
+|---|---|---|---|
+| km 1 | 8:55 | −5 | 144 |
+| km 2 | 9:31 | +5 | 148 |
+| km 3 | 9:59 | −7 | 148 |
+| 0.8 | 11:11 | +6 | 150 |
+
+**Textbook cardiac drift.** HR flat across the run (144 → 150, six beats) while pace fell
+2:16/km. Not fatigue in any meaningful sense — progressively more heart rate buying
+progressively less work, driven by evening heat and a thin aerobic base.
+
+**Execution note:** he held HR constant and let pace collapse — the *old* discarded rule.
+The revised rule is to hold pace and let HR drift. Same 38 min under the new rule would have
+covered ~4.3 km, all of it running, instead of finishing at walking pace.
+
+**Corrected baseline: 8:55/km at HR ~145, flat-ish ground.** (Earlier estimate of 8:00/km,
+extrapolated from the 5 Aug splits, was too optimistic.) This is the primary progress metric.
+Target: under 8:00/km at the same HR within ~4 weeks.
+
+**Contingency:** if drift still forces a walk while holding pace, cut easy runs to 25–30 min
+and add a fourth running day. Frequency beats one long grind that degenerates.
+
+Static session #1 (push-ups 5×25, sit-ups 5×25) prescribed for the same evening.
 
 ### Mon 10 Aug 2026 — PRESCRIBED: squash (hard day). No run on top.
 Warm up before playing exactly as for a run, calf raises included. Squash is a cold start
