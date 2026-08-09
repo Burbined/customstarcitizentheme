@@ -174,10 +174,32 @@ Hard/easy rules, enforced:
 
 | Zone | HR | Use |
 |---|---|---|
-| **Easy** | **≤150** | Hard cap. If that means 8:00/km, you run 8:00/km. |
-| Steady / long | ≤160 | Long runs only, back half |
+| **Easy** | **145–155 settling, drift to 165 OK, hard ceiling 170** | See below |
+| Steady / long | 155–165 | Long runs only, back half |
 | Tempo | 172–182 | Phase 2 onward |
 | Interval | 185–195 | Reps only — **HR must fall below 150 before the next rep starts** |
+
+### How to run easy (revised 9 Aug — the flat 150 cap was wrong)
+
+The original rule was a hard cap of 150. In Singapore heat that is unworkable late in a run:
+cardiac drift is worth 15–25 bpm over 30 minutes, so holding 150 at minute 30 forces a walk.
+The 5 Aug splits show it exactly — 8:05/km read 150 at 800 m and 187 at 4 km on a *slower*
+pace.
+
+Walking is not a substitute for easy running. There is no flight phase, so it does not build
+the tendon and bone durability that is the entire point of Phase 1.
+
+**The rule:**
+1. Settle pace over the first 10 minutes so HR sits **145–155**. Currently ≈8:00/km.
+2. **Hold that pace.** Let HR drift up. Up to ~165 late is normal and fine.
+3. **Ceiling 170.** Above that, back off — that is no longer easy.
+4. **Talk test governs in heat:** a full spoken sentence should be comfortable. Can't speak =
+   too hard. Could sing = too slow.
+5. Walk steep climbs if needed. Do not walk the whole session.
+
+**Progress metric:** pace at HR 150 on the same route, measured over the first 10 minutes
+when drift is minimal. This is a better and faster-moving indicator than the 2.4 km re-tests.
+Expect a clear drop within 3–4 weeks. If it does not move, the plan is wrong.
 
 The recovery rule is the one that makes intervals into intervals. If HR won't come down,
 the session is over — walk the rest.
