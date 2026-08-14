@@ -24,8 +24,8 @@ calendar are in `ippt-plan.md`.
 - **Calf status (6 Aug):** clear — tightness fully resolved after one rest day
 - **Cadence: 154–158 spm** (first measured 14 Aug). Low. Target 162–165 for now, ~170 later.
   Low cadence = longer stride = more forefoot braking = calf load. Fixes two problems at once.
-- **Health (14 Aug):** onset of illness + sleep debt. Return-to-run gate: above-neck symptoms
-  only, and 24 h symptom-free before resuming.
+- **Health:** 14 Aug trial run on sleep debt + onset of illness. **Clearing as of 15 Aug** —
+  train normally. Stop only for chest symptoms or fever.
 - **Static stations (tested 6 Aug):** 40 push-ups, 40 sit-ups. Max for age group 1 is 60/60.
 - **Static training:** 3×/week, 5 sets at 60–70% of max (24–28 reps), push-ups 90 s rest /
   sit-ups 60 s rest. Add a rep per set per week. Failure work no more than once a fortnight.
@@ -161,7 +161,9 @@ day. Worth 30–40 s, and it is the same error as the 31 Jul trial.
 from Phase 2, interval sessions happen there. Retires the Bin Tong Park road route and the
 gradient-correction problem entirely.
 
-### Week Sat 15 – Fri 21 Aug — return from illness
-Sat rest · Sun rest · Mon rest or 20 min very easy · Tue 25 min easy · Wed rest + calf +
-statics · Thu 30 min easy + strides · Fri rest or squash. ~9–11 km. No hard efforts.
-Gate: 24 h symptom-free, above-neck only. If delayed, run sessions in order — do not compress.
+### Week Sat 15 – Fri 21 Aug — normal Phase 1 base week
+Illness reported as clearing on 15 Aug; return-to-run gating removed at his request.
+Sat 25 min easy · Sun 35 min easy + strides · Mon rest + calf + statics · Tue 30 min easy ·
+Wed rest or squash · Thu 40 min easy · Fri rest + calf + statics. **4 runs, ~14–15 km.**
+No hard running — the fortnight's hard effort was spent on the unscheduled 14 Aug trial.
+Sat is short because of that max effort, not illness.

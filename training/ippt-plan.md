@@ -170,17 +170,26 @@ Hard/easy rules, enforced:
 - Never two hard days back to back. Time trial, intervals, tempo, and squash are all hard.
 - Minimum 2 easy days between any two hard sessions in Phase 1.
 
-## Heart rate zones (from observed HRmax 200)
+## Heart rate zones (observed HRmax 204, measured 14 Aug)
 
 | Zone | HR | Use |
 |---|---|---|
-| **Easy** | **≤150** | Hard cap. If that means 8:00/km, you run 8:00/km. |
-| Steady / long | ≤160 | Long runs only, back half |
-| Tempo | 172–182 | Phase 2 onward |
-| Interval | 185–195 | Reps only — **HR must fall below 150 before the next rep starts** |
+| **Easy** | settle **145–155**, drift to 165 OK, ceiling **170** | Hold pace, let HR rise. Never slow down to defend a number. |
+| Steady / long | 155–165 | Long runs, back half |
+| Tempo | 175–185 | Phase 2 onward |
+| Interval | 188–198 | Reps only — **HR must fall below 150 before the next rep starts** |
 
 The recovery rule is the one that makes intervals into intervals. If HR won't come down,
 the session is over — walk the rest.
+
+**The flat 150 easy cap is retired** (9 Aug). In Singapore heat, drift is worth 15–25 bpm over
+half an hour, so holding 150 late forces a walk — and walking has no flight phase, so it does
+not build the durability Phase 1 exists to build. Talk test governs: a full spoken sentence
+should be comfortable.
+
+**Cadence: 162–165 spm** (measured 154–158 on 14 Aug). Count foot strikes for 15 s — 41, not
+39. Shorter and quicker, don't reach for stride. Reduces forefoot braking, so it helps the
+calves and economy together. ~170 later, not yet.
 
 ## Warmup protocol — non-negotiable, every run
 
@@ -284,55 +293,33 @@ Append to `training/log.md` and push to `claude/ippt-2.4km-coaching-vidj4o`:
 
 ## CURRENT WEEK — Sat 15 to Fri 21 Aug 2026
 
-Return-from-illness week. Volume is deliberately below the Phase 1 curve; rebuilding after
-being unwell beats chasing the target and relapsing. **No hard efforts of any kind this
-week** — no time trial, no intervals, no tempo.
-
-### Gate before any running
-
-- **Above the neck only** (sneezing, blocked nose, mild sore throat) → easy running allowed.
-- **Below the neck** (chest, fever, body aches) → no training at all.
-- Resume only after **24 hours symptom-free**. Two extra rest days cost nothing; training
-  through it costs a fortnight.
-
-### The week
+Illness cleared. Normal Phase 1 base week, no gating.
 
 | Day | Session |
 |---|---|
-| **Sat 15** | **Rest.** Sleep. Nothing else. |
-| **Sun 16** | **Rest.** Calf raises + statics only if you genuinely feel fine. Skip if feverish. |
-| **Mon 17** | Rest, **or** 20 min very easy if symptom-free for 24 h. Walk breaks fine. |
-| **Tue 18** | 25 min easy + full warmup. Statics after. |
-| **Wed 19** | Rest + calf conditioning + statics |
-| **Thu 20** | 30 min easy + 4×20 s strides at the end |
-| **Fri 21** | Rest, **or** squash if you're fully recovered (then it's the week's only hard day) |
+| **Sat 15** | 25 min easy + statics |
+| **Sun 16** | 35 min easy + 4×20 s strides |
+| **Mon 17** | Rest + calf work + statics |
+| **Tue 18** | 30 min easy |
+| **Wed 19** | Rest, **or** squash — then it is the week's only hard day |
+| **Thu 20** | 40 min easy — longest of the week |
+| **Fri 21** | Rest + calf work + statics |
 
-Roughly 9–11 km of running if the week runs clean. If illness pushes everything back two
-days, run the sessions in order from whenever you start — don't compress them to catch up.
+Four runs, **~14–15 km**. Up from 12 last week, on the Phase 1 curve toward 19 km/week by
+mid-September.
 
-### Three rules for every easy run this week
+Sat is short because of the 14 Aug maximal effort (204 bpm), not because of illness — the day
+after a max effort is easy or nothing either way.
 
-1. **Hold pace, let HR drift.** Settle at ~9:00/km in the first 10 min (HR 145–155), then
-   keep that pace and let HR climb through the 150s into the low 160s. Do not slow down to
-   defend a number. Ceiling 170.
-2. **Cadence 162–165 spm.** Currently 154. Count foot strikes for 15 s — you want 41ish, up
-   from 39. Shorter, quicker steps; don't reach for stride length. This reduces the forefoot
-   braking that's been loading your calves, so it fixes two problems at once. Don't jump
-   straight to 170 — a 5% change is enough for now.
-3. **Full 10-min warmup, every time.** 5 min walk into slow jog, 2×15 straight-leg calf
-   raises, 2×15 bent-knee, 4×20 s strides.
+**No hard running this week.** The hard effort for this fortnight was already spent on the
+unscheduled 14 Aug trial. Next one is the early-September re-test on the MOE Evans track.
+Everything between now and then is base.
 
-### Statics — 3× this week
+Every run: hold ~9:00/km and let HR drift into the low 160s · cadence 162–165 · full 10-min
+warmup. Statics 3× (push-ups 5×25 / 90 s, sit-ups 5×25 / 60 s).
 
-Push-ups 5×25 (90 s rest), sit-ups 5×25 (60 s rest). Fine to do while mildly unwell if
-symptoms are above the neck. These are the cheapest points available and they don't depend
-on your legs or your lungs, so they should be the *last* thing to drop in a bad week.
-
-### Next re-test
-
-Not this week. When it happens: on the MOE Evans track, well-slept, healthy, and off a real
-block of training. First 400 m no faster than 5 s/km under target pace — the 14 Aug shape
-(out at 5:00, collapse to 6:40, close at 4:55) is worth 30–40 s on its own.
+Stop for chest symptoms or fever. That is not caution about a cold — it is the one thing not
+to train through.
 
 ## What I need from you going forward
 
