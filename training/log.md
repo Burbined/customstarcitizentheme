@@ -11,7 +11,7 @@ calendar are in `ippt-plan.md`.
 ## Standing status
 
 - **Baseline 2.4 km:** 12:37 recorded 31 Jul on a −12.2 m course → **~12:50 flat-corrected**
-- **Observed HRmax:** 200. **Easy = settle 145–155 over the first 10 min, then hold pace and
+- **Observed HRmax: 204** (14 Aug track trial; was 200). **Easy = settle 145–155 over the first 10 min, then hold pace and
   let HR drift to ~165; hard ceiling 170.** Tempo 172–182, intervals 185–195.
   *Revised 9 Aug — the original flat 150 cap forced walking late in runs because of heat
   drift. Do not re-prescribe a hard 150 cap. Talk test governs: a full spoken sentence should
@@ -22,6 +22,10 @@ calendar are in `ippt-plan.md`.
 - **Known issue — severe cardiac drift.** 9 Aug: pace fell 2:16/km over 38 min at flat HR.
   Expect any easy run past ~25 min to degenerate into a walk unless pace is held deliberately.
 - **Calf status (6 Aug):** clear — tightness fully resolved after one rest day
+- **Cadence: 154–158 spm** (first measured 14 Aug). Low. Target 162–165 for now, ~170 later.
+  Low cadence = longer stride = more forefoot braking = calf load. Fixes two problems at once.
+- **Health (14 Aug):** onset of illness + sleep debt. Return-to-run gate: above-neck symptoms
+  only, and 24 h symptom-free before resuming.
 - **Static stations (tested 6 Aug):** 40 push-ups, 40 sit-ups. Max for age group 1 is 60/60.
 - **Static training:** 3×/week, 5 sets at 60–70% of max (24–28 reps), push-ups 90 s rest /
   sit-ups 60 s rest. Add a rep per set per week. Failure work no more than once a fortnight.
@@ -135,3 +139,29 @@ pattern is not. Four consecutive untrained days, every one scheduled easy, while
 stays on the calendar. Phase 1 needs 19 km/week by mid-September and that is unreachable if
 easy days keep being the ones that go. Volume is the binding constraint on Silver, and it is
 built almost entirely out of the least interesting sessions in the plan.
+
+### Fri 14 Aug 2026 — 2.4 km trial, MOE Evans track. 13:58. Avg HR 191, max 204.
+**VOID as a fitness benchmark. Do not compare against 12:37.**
+
+Unprescribed — the schedule had no hard effort until the ~5 Sep re-test. Run on five days of
+no running, little sleep, and the onset of illness. Elevated HR for the work done (195 bpm at
+5:50/km) is consistent with that. The time does not measure fitness.
+
+*Correction on file:* an initial read treated the GPX elevation as real terrain and applied a
+25–35 s course adjustment. Wrong — the track is flat. The 200 m elevation deltas alternate
+sign 12/12 times with a 400 m period, exactly one lap: a GPS altitude artifact, not terrain.
+Any elevation figure from a track file should be ignored.
+
+**What does survive — the pacing shape**, which is effort-independent:
+out at 4:55–5:05/km → HR 187 by 600 m → collapse to 6:20–6:40 → close the last 200 m in 4:55.
+The finishing sprint proves he was not fitness-limited at 6:40. Even-paced ≈13:20 off the same
+day. Worth 30–40 s, and it is the same error as the 31 Jul trial.
+
+**Venue upgrade:** he has access to a flat 400 m track (MOE Evans). All future re-tests and,
+from Phase 2, interval sessions happen there. Retires the Bin Tong Park road route and the
+gradient-correction problem entirely.
+
+### Week Sat 15 – Fri 21 Aug — return from illness
+Sat rest · Sun rest · Mon rest or 20 min very easy · Tue 25 min easy · Wed rest + calf +
+statics · Thu 30 min easy + strides · Fri rest or squash. ~9–11 km. No hard efforts.
+Gate: 24 h symptom-free, above-neck only. If delayed, run sessions in order — do not compress.

@@ -174,32 +174,10 @@ Hard/easy rules, enforced:
 
 | Zone | HR | Use |
 |---|---|---|
-| **Easy** | **145–155 settling, drift to 165 OK, hard ceiling 170** | See below |
-| Steady / long | 155–165 | Long runs only, back half |
+| **Easy** | **≤150** | Hard cap. If that means 8:00/km, you run 8:00/km. |
+| Steady / long | ≤160 | Long runs only, back half |
 | Tempo | 172–182 | Phase 2 onward |
 | Interval | 185–195 | Reps only — **HR must fall below 150 before the next rep starts** |
-
-### How to run easy (revised 9 Aug — the flat 150 cap was wrong)
-
-The original rule was a hard cap of 150. In Singapore heat that is unworkable late in a run:
-cardiac drift is worth 15–25 bpm over 30 minutes, so holding 150 at minute 30 forces a walk.
-The 5 Aug splits show it exactly — 8:05/km read 150 at 800 m and 187 at 4 km on a *slower*
-pace.
-
-Walking is not a substitute for easy running. There is no flight phase, so it does not build
-the tendon and bone durability that is the entire point of Phase 1.
-
-**The rule:**
-1. Settle pace over the first 10 minutes so HR sits **145–155**. Currently ≈8:00/km.
-2. **Hold that pace.** Let HR drift up. Up to ~165 late is normal and fine.
-3. **Ceiling 170.** Above that, back off — that is no longer easy.
-4. **Talk test governs in heat:** a full spoken sentence should be comfortable. Can't speak =
-   too hard. Could sing = too slow.
-5. Walk steep climbs if needed. Do not walk the whole session.
-
-**Progress metric:** pace at HR 150 on the same route, measured over the first 10 minutes
-when drift is minimal. This is a better and faster-moving indicator than the 2.4 km re-tests.
-Expect a clear drop within 3–4 weeks. If it does not move, the plan is wrong.
 
 The recovery rule is the one that makes intervals into intervals. If HR won't come down,
 the session is over — walk the rest.
@@ -286,9 +264,75 @@ Append to `training/log.md` and push to `claude/ippt-2.4km-coaching-vidj4o`:
   negotiable, since squash is calf-dominant and the calves only just cleared.
 - Warmup protocol extended to **squash as well as runs** — cold starts into repeated hard
   push-off are the worst calf offender in the week.
-- **Watch item:** the sessions skipped so far are easy ones; the hard ones always get done.
-  Given volume is the binding constraint, a repeat pattern of dropped easy runs is the single
-  most likely way this plan fails. Flag it in the brief if it happens twice more.
+- **Watch item — now confirmed, not hypothetical.** Sat 8 and Sun 9 also went untrained,
+  making it four consecutive rest days (Thu–Sun) since the 5 Aug run. Every one was scheduled
+  as an easy day, and squash remains on for Mon 10. The hard sessions get done; the easy ones
+  do not. Since volume is the binding constraint, this is the single most likely way the plan
+  fails. Raise it directly in the brief whenever two consecutive easy days are dropped.
+
+- **Week 1 revised again — squash moved from Sun 9 to Mon 10 Aug:**
+  - Sun 9 = 35 min easy (HR ≤150) + static session #1
+  - Mon 10 = squash (hard day), warm up with calf raises before play
+  - Tue 11 = rest + calf work
+  - Actual week (Mon 3 – Sun 9): 2.81 + 5.01 + ~4.3 ≈ **12 km, clearing the 10 km target.**
+    Cost of the four days off is real but modest; the risk is the trend, not this week.
+
+- **Static session #1 prescribed Sun 9:** push-ups 5×25 (90 s rest), sit-ups 5×25 (60 s rest)
+  — ~60–70% of tested max. Volume work, not failure work.
+
+---
+
+## CURRENT WEEK — Sat 15 to Fri 21 Aug 2026
+
+Return-from-illness week. Volume is deliberately below the Phase 1 curve; rebuilding after
+being unwell beats chasing the target and relapsing. **No hard efforts of any kind this
+week** — no time trial, no intervals, no tempo.
+
+### Gate before any running
+
+- **Above the neck only** (sneezing, blocked nose, mild sore throat) → easy running allowed.
+- **Below the neck** (chest, fever, body aches) → no training at all.
+- Resume only after **24 hours symptom-free**. Two extra rest days cost nothing; training
+  through it costs a fortnight.
+
+### The week
+
+| Day | Session |
+|---|---|
+| **Sat 15** | **Rest.** Sleep. Nothing else. |
+| **Sun 16** | **Rest.** Calf raises + statics only if you genuinely feel fine. Skip if feverish. |
+| **Mon 17** | Rest, **or** 20 min very easy if symptom-free for 24 h. Walk breaks fine. |
+| **Tue 18** | 25 min easy + full warmup. Statics after. |
+| **Wed 19** | Rest + calf conditioning + statics |
+| **Thu 20** | 30 min easy + 4×20 s strides at the end |
+| **Fri 21** | Rest, **or** squash if you're fully recovered (then it's the week's only hard day) |
+
+Roughly 9–11 km of running if the week runs clean. If illness pushes everything back two
+days, run the sessions in order from whenever you start — don't compress them to catch up.
+
+### Three rules for every easy run this week
+
+1. **Hold pace, let HR drift.** Settle at ~9:00/km in the first 10 min (HR 145–155), then
+   keep that pace and let HR climb through the 150s into the low 160s. Do not slow down to
+   defend a number. Ceiling 170.
+2. **Cadence 162–165 spm.** Currently 154. Count foot strikes for 15 s — you want 41ish, up
+   from 39. Shorter, quicker steps; don't reach for stride length. This reduces the forefoot
+   braking that's been loading your calves, so it fixes two problems at once. Don't jump
+   straight to 170 — a 5% change is enough for now.
+3. **Full 10-min warmup, every time.** 5 min walk into slow jog, 2×15 straight-leg calf
+   raises, 2×15 bent-knee, 4×20 s strides.
+
+### Statics — 3× this week
+
+Push-ups 5×25 (90 s rest), sit-ups 5×25 (60 s rest). Fine to do while mildly unwell if
+symptoms are above the neck. These are the cheapest points available and they don't depend
+on your legs or your lungs, so they should be the *last* thing to drop in a bad week.
+
+### Next re-test
+
+Not this week. When it happens: on the MOE Evans track, well-slept, healthy, and off a real
+block of training. First 400 m no faster than 5 s/km under target pace — the 14 Aug shape
+(out at 5:00, collapse to 6:40, close at 4:55) is worth 30–40 s on its own.
 
 ## What I need from you going forward
 
