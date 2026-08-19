@@ -26,9 +26,13 @@ calendar are in `ippt-plan.md`.
   Low cadence = longer stride = more forefoot braking = calf load. Fixes two problems at once.
 - **Health:** 14 Aug trial run on sleep debt + onset of illness. **Clearing as of 15 Aug** —
   train normally. Stop only for chest symptoms or fever.
-- **Static stations (tested 6 Aug):** 40 push-ups, 40 sit-ups. Max for age group 1 is 60/60.
-- **Static training:** 3×/week, 5 sets at 60–70% of max (24–28 reps), push-ups 90 s rest /
-  sit-ups 60 s rest. Add a rep per set per week. Failure work no more than once a fortnight.
+- **Static stations (19 Aug, supersedes the 6 Aug 40/40 estimate): 45 push-ups, 35 sit-ups.**
+  Max for age group 1 is 60/60 — so 75% on push-ups, **58% on sit-ups**. Sit-ups are the
+  weakest station and the cheapest points available anywhere in this plan.
+- **Static training:** 3×/week. Push-ups **5×28** (90 s rest), add a rep per set weekly.
+  Sit-ups **5×25** (60 s rest) **plus one all-out 1-minute set weekly** — the test is a
+  1-min max and the limiter is pacing, not strength. Target a steady 40–45/min rhythm rather
+  than sprinting the first 20 and stalling (same fault as his 2.4 km pacing).
   Re-test both every 3 weeks on a rest day.
 - **Enlistment:** likely January 2027. A-Levels Oct–Nov 2026.
 
@@ -42,14 +46,17 @@ numbers in a brief.
 1. Official points for 40 push-ups, age group 1
 2. Official points for 40 sit-ups, age group 1
 3. Run points at 12:50, plus the times scoring 31 / 45 / 55 run points
-4. **Pass threshold.** Ben states 61. Public ns.gov.sg text states 51 total with a minimum
-   1 point per station, with 61 being the incentive tier for NSmen. Whether a pre-enlistee
-   IPPT differs is unresolved — worth 10 points of target. Working with 61 as the
-   conservative figure until confirmed.
+4. ~~Pass threshold~~ — **RESOLVED 19 Aug: pass = 61.** Silver 75, Gold 85.
 
-Source is the NS portal slider/PDF at
-ns.gov.sg/web/profiles/nsman/ippt-and-ns-fit/ippt-stations-and-scoring-system — a JS app, so
-it cannot be read programmatically. The numbers have to come from Ben.
+**Do not attempt to fetch the points table again.** Tried three times (public calculators and
+the NS portal); all render the table in JavaScript and none expose it. Delegated to Ben.
+
+**Asked of Ben 19 Aug — three readings off the official slider:**
+1. Total score for 45 push-ups / 35 sit-ups / 12:50
+2. Run time putting that combination at exactly 61 (pass)
+3. Run time putting it at 75 (silver)
+
+Those three numbers fix every target permanently. Until they land, quote no target times.
 
 ### Watch item
 
@@ -227,3 +234,12 @@ fault as the trials, smaller scale); HR avg 161 is upper-easy rather than easy �
 
 Next: Thu 20 = rest + calf + statics (recovery, since tonight ran hot). Fri 21 = 40 min easy,
 start slower, average 150–155.
+
+### Wed 19 Aug 2026 — Static stations re-reported: 45 push-ups, 35 sit-ups
+Supersedes the 6 Aug 40/40, which was an estimate. Push-ups better than thought, sit-ups worse.
+
+**Sit-ups at 58% of max are the weakest link in the whole plan and the cheapest to fix** — core
+endurance and pacing, responsive in weeks. 35 → 50 by October is realistic and carries zero
+running-fatigue cost, so it can run straight through the A-Level block.
+
+Pass threshold confirmed at **61**.
