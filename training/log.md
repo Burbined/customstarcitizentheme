@@ -197,3 +197,33 @@ would not be repeated — do not re-litigate it in future briefs, just prescribe
 
 Revised remainder: Wed 19 = 30 min easy (was rest/squash; he is fully rested, one run in five
 days) · Thu 20 = 20 min easy or rest + calf work · Fri 21 = 40 min easy. Lands ~10–11 km.
+
+### Wed 19 Aug 2026 — 3.02 km, 25:05, avg 8:19/km. Avg HR 161, max 172. Cadence 160.
+Evening slot (19:23) as instructed.
+
+**Second consecutive correct execution of hold-pace.** Pace 8:20–9:10 across the run while HR
+climbed 125 → 168. No collapse. This is now a habit rather than a one-off.
+
+**Cadence 160 (max 170)**, up from 154 on 14 Aug. Approaching the 162–165 target.
+
+**Progress metric — gradient-adjusted, because the raw numbers flatter him:**
+
+| Date | First km raw | Net elev | Adjusted | HR |
+|---|---|---|---|---|
+| 9 Aug | 8:55 | −5 m | ~9:03 | 144 |
+| 15 Aug | 8:11 | −15 m | ~8:35 | 147 |
+| 19 Aug | 7:43 | −8 m | **~7:57** | 151 |
+
+Raw improvement reads 72 s/km. But the first km on 19 Aug was 0.8% net downhill (~14 s/km),
+and HR has crept 144 → 147 → 151, so the efforts are not comparable. **Genuine improvement is
+~25–30 s/km over ten days.** Real, but not the headline figure.
+
+**Measurement fix issued:** run the first km of one easy run per week on the Evans track — flat,
+fixed distance, no gradient adjustment needed. Track the number there from now on.
+
+Faults, both minor: 400 m split at 6:30/km with HR 125 → 161 inside 600 m (same going-out-hot
+fault as the trials, smaller scale); HR avg 161 is upper-easy rather than easy — target average
+150–155. 25:05 against 30 min prescribed.
+
+Next: Thu 20 = rest + calf + statics (recovery, since tonight ran hot). Fri 21 = 40 min easy,
+start slower, average 150–155.
