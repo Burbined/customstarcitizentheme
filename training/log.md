@@ -167,3 +167,33 @@ Sat 25 min easy · Sun 35 min easy + strides · Mon rest + calf + statics · Tue
 Wed rest or squash · Thu 40 min easy · Fri rest + calf + statics. **4 runs, ~14–15 km.**
 No hard running — the fortnight's hard effort was spent on the unscheduled 14 Aug trial.
 Sat is short because of that max effort, not illness.
+
+### Sat 15 Aug 2026 — 2.39 km, 20:14, avg 8:29/km. Avg HR 160, max 181. Cadence 157–161.
+Run at 14:34 — afternoon, much hotter than his usual evening slot.
+
+**First correct execution of the hold-pace rule.** Pace stayed 7:45–8:35 across the full 2 km
+while HR climbed 129 → 178. Contrast 9 Aug, where he defended the HR number and pace collapsed
+8:55 → 11:11.
+
+**Progress metric moved:** first km **8:11/km at HR ~147**, against 8:55/km at HR 144 on 9 Aug.
+44 s/km faster for three extra beats, in worse (afternoon) heat. One data point a week apart —
+directionally right, not yet a trend.
+
+Corrections issued: (1) stop running at 2:30pm — HR reached 181 holding 8:30/km, above the 170
+ceiling, which evening conditions would not have cost; (2) cadence 157–161, up from 154, keep
+pushing to 162–165; (3) 20:14 against 25 min prescribed, last 200 m walked (cadence 126).
+
+### Sun 16 – Tue 18 Aug 2026 — statics only, no running
+Statics done 3× as prescribed — credit, and they are real points. Both scheduled easy runs
+dropped.
+
+### Week Sat 15 – Fri 21 Aug — REVISED Wed 19
+Actual through Tue 18: **2.39 km against a 14–15 km target.** Two easy runs dropped, statics kept.
+
+**Third consecutive week where the dropped sessions are exclusively the easy runs.** The pattern
+is now established beyond argument: statics, squash and hard efforts get done; easy aerobic volume
+does not. Volume is the binding constraint on Silver. Told him directly on 19 Aug and said it
+would not be repeated — do not re-litigate it in future briefs, just prescribe and record.
+
+Revised remainder: Wed 19 = 30 min easy (was rest/squash; he is fully rested, one run in five
+days) · Thu 20 = 20 min easy or rest + calf work · Fri 21 = 40 min easy. Lands ~10–11 km.
