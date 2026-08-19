@@ -36,27 +36,30 @@ calendar are in `ippt-plan.md`.
   Re-test both every 3 weeks on a rest day.
 - **Enlistment:** likely January 2027. A-Levels Oct–Nov 2026.
 
-### Target times are currently UNRESOLVED
+### Target times — RESOLVED 19 Aug. See `ippt-scoring.md`.
 
-The originally quoted Silver 10:24 / Gold 9:44 assumed near-max statics. At 40/40 they are
-too generous — the required run times are **faster**, not slower. Do not quote the old
-numbers in a brief.
+Official SAF score tables supplied and transcribed. **`ippt-scoring.md` is the authority —
+read it before quoting any target time. Never re-derive from calculators or memory.**
 
-**Outstanding, and it gates every target:**
-1. Official points for 40 push-ups, age group 1
-2. Official points for 40 sit-ups, age group 1
-3. Run points at 12:50, plus the times scoring 31 / 45 / 55 run points
-4. ~~Pass threshold~~ — **RESOLVED 19 Aug: pass = 61.** Silver 75, Gold 85.
+**Current total: 66 points — already passing (61), margin +5.**
+Push-ups 45 → 21 · sit-ups 35 → 17 · run ~12:50 → 28.
+The 14 Aug 13:58 (run sick) scores 59 — a fail. That is the true size of the margin.
 
-**Do not attempt to fetch the points table again.** Tried three times (public calculators and
-the NS portal); all render the table in JavaScript and none expose it. Delegated to Ben.
+**Run time needed, by static level:**
 
-**Asked of Ben 19 Aug — three readings off the official slider:**
-1. Total score for 45 push-ups / 35 sit-ups / 12:50
-2. Run time putting that combination at exactly 61 (pass)
-3. Run time putting it at 75 (silver)
+| PU / SU | Static | Pass 61 | Silver 75 | Gold 85 |
+|---|---|---|---|---|
+| 45 / 35 now | 38 | 13:40 | 11:00 | 9:00 |
+| 55 / 50 | 45 | 14:40 | 12:30 | 10:10 |
+| 60 / 60 max | 50 | 15:00 | 13:20 | 11:20 |
 
-Those three numbers fix every target permanently. Until they land, quote no target times.
+**Sit-ups are the top priority in the plan.** 35 → 40 is +3 points for five reps, worth about
+35 seconds off the 2.4 km. The full station 35 → 60 beats a minute of running improvement and
+carries no leg or aerobic cost, so it runs straight through the A-Level block.
+
+The old Silver 10:24 / Gold 9:44 were wrong and appear nowhere in the official table. The
+verdict built on them — that Gold was unreachable — is **withdrawn**: Gold needs 11:20 with
+maxed statics. Demanding, conditional on the statics, but live.
 
 ### Watch item
 
