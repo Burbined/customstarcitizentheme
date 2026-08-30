@@ -26,7 +26,10 @@ calendar are in `ippt-plan.md`.
   Low cadence = longer stride = more forefoot braking = calf load. Fixes two problems at once.
 - **Health:** 14 Aug trial run on sleep debt + onset of illness. **Clearing as of 15 Aug** —
   train normally. Stop only for chest symptoms or fever.
-- **Static stations (19 Aug, supersedes the 6 Aug 40/40 estimate): 45 push-ups, 35 sit-ups.**
+- **Static stations (30 Aug): 47 push-ups (21 pts), 35 sit-ups (17 pts).**
+  NOTE: 45→47 gained **zero points** — the table steps at 48. **48 push-ups = 22 pts**, so he is
+  one rep from a point. Sit-ups unmoved since 6 Aug despite being the top-priority item.
+- *(superseded 19 Aug figure: 45 push-ups, 35 sit-ups)*
   Max for age group 1 is 60/60 — so 75% on push-ups, **58% on sit-ups**. Sit-ups are the
   weakest station and the cheapest points available anywhere in this plan.
 - **Static training:** 3×/week. Push-ups **5×28** (90 s rest), add a rep per set weekly.
@@ -246,3 +249,27 @@ endurance and pacing, responsive in weeks. 35 → 50 by October is realistic and
 running-fatigue cost, so it can run straight through the A-Level block.
 
 Pass threshold confirmed at **61**.
+
+### Thu 20 – Sat 29 Aug 2026 — no running. A-Level prelims.
+**Eleven days without a run** (last: 19 Aug). Prelims are a legitimate constraint — school
+comes first is a founding condition of this plan — but the consequences need stating.
+
+**Push-ups 45 → 47.** Worth **0 points**: the table gives 21 for both. 48 scores 22, so he is
+one rep short of a point. Told him directly.
+
+**Sit-ups still 35.** Unmoved in the twelve days since being identified as the highest-leverage
+item in the entire plan. 35 → 40 is +3 points for five reps.
+
+**Pass margin is the live risk.** The 66-point standing rests on a ~12:50 flat-equivalent last
+measured 31 Jul, with four runs since. That estimate is a month old and pointing downward.
+Do not quote 66 as current without re-testing.
+
+### Prelim mode — prescribed 30 Aug
+Minimum effective dose, hold rather than build:
+- **2 × 25 min easy runs per week** (50 min/week total — enough to hold aerobic fitness)
+- **Sit-ups 4×/week**: 5×25 + one all-out minute
+- **Push-ups 2×/week**: 5×28
+
+Same logic as the Phase 3 A-Level block, rehearsed early: arrive on the other side having lost
+nothing. **5 Sep re-test cancelled** — it would measure his revision schedule, not his fitness.
+Reschedule after prelims. Asked when prelims finish.
