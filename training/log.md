@@ -26,12 +26,10 @@ calendar are in `ippt-plan.md`.
   Low cadence = longer stride = more forefoot braking = calf load. Fixes two problems at once.
 - **Health:** 14 Aug trial run on sleep debt + onset of illness. **Clearing as of 15 Aug** —
   train normally. Stop only for chest symptoms or fever.
-- **Static stations (30 Aug): 47 push-ups (21 pts), 35 sit-ups (17 pts).**
-  NOTE: 45→47 gained **zero points** — the table steps at 48. **48 push-ups = 22 pts**, so he is
-  one rep from a point. Sit-ups unmoved since 6 Aug despite being the top-priority item.
-- *(superseded 19 Aug figure: 45 push-ups, 35 sit-ups)*
-  Max for age group 1 is 60/60 — so 75% on push-ups, **58% on sit-ups**. Sit-ups are the
-  weakest station and the cheapest points available anywhere in this plan.
+- **Static stations (30 Aug): 47 push-ups (21 pts), 35 sit-ups (17 pts).** Max is 60/60.
+  45→47 gained **zero points** — the table steps at 48. **48 push-ups = 22 pts**, so he is one
+  rep from a point. Sit-ups unmoved since 6 Aug despite being the top-priority item.
+  *(Earlier figures: 40/40 estimated 6 Aug; 45/35 measured 19 Aug.)*
 - **Static training:** 3×/week. Push-ups **5×28** (90 s rest), add a rep per set weekly.
   Sit-ups **5×25** (60 s rest) **plus one all-out 1-minute set weekly** — the test is a
   1-min max and the limiter is pacing, not strength. Target a steady 40–45/min rhythm rather
@@ -44,9 +42,13 @@ calendar are in `ippt-plan.md`.
 Official SAF score tables supplied and transcribed. **`ippt-scoring.md` is the authority —
 read it before quoting any target time. Never re-derive from calculators or memory.**
 
-**Current total: 66 points — already passing (61), margin +5.**
-Push-ups 45 → 21 · sit-ups 35 → 17 · run ~12:50 → 28.
-The 14 Aug 13:58 (run sick) scores 59 — a fail. That is the true size of the margin.
+**Standing at last measurement: 66 points — passing (61), margin +5.**
+Push-ups 47 → 21 · sit-ups 35 → 17 · run ~12:50 → 28.
+
+⚠️ **Do not quote 66 as current.** The run component is a 31 Jul flat-equivalent with only four
+runs since and an 11-day break through prelims. It is stale and pointing downward. The 14 Aug
+13:58 (run ill) scores 59 — a fail — which is the real size of the margin. Re-test before
+treating the pass as secure.
 
 **Run time needed, by static level:**
 
