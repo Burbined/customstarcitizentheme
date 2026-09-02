@@ -275,3 +275,35 @@ Minimum effective dose, hold rather than build:
 Same logic as the Phase 3 A-Level block, rehearsed early: arrive on the other side having lost
 nothing. **5 Sep re-test cancelled** — it would measure his revision schedule, not his fitness.
 Reschedule after prelims. Asked when prelims finish.
+
+### Wed 2 Sep 2026 — 1.71 km, 10:41, avg 6:15/km. Avg HR 171, max 203. Cadence 159 (max 172).
+First run in **14 days** (last: 19 Aug), during A-Level prelims. Prescribed: 25 min easy at
+145–155. Delivered: a 10-minute near-maximal effort — 203 against a measured HRmax of 204.
+
+| Split | Pace | Δ elev | HR |
+|---|---|---|---|
+| 200 | 6:35 | −2.4 | 125 |
+| 400 | 6:20 | −4.4 | 145 |
+| 600 | 6:35 | +5.4 | 163 |
+| 800 | 6:30 | +10.4 | 183 |
+| 1000 | 6:00 | −9.8 | 189 |
+| 1200 | 6:05 | −8.4 | 186 |
+| 1400 | 5:50 | +10.6 | 192 |
+| 1600 | 5:55 | +5.8 | 199 |
+
+**Terrain is a genuine mitigation:** +52 m ascent / −44 m descent over 1.7 km. Steep, so a
+chunk of that HR is the hills rather than deliberate hammering.
+
+**But the pattern has reverted.** The 15 and 19 Aug runs — pace held, HR 147 and 161 — were the
+two best-executed sessions on record. After a two-week gap he is back to running near max, which
+is the founding diagnosis of this plan.
+
+**Cadence 159 held through the layoff** — the one adaptation that survived.
+
+Risks flagged: (1) 10 min of hard running gives almost no aerobic stimulus, which is the exact
+thing he lacks — 25 easy minutes beats 10 hard ones decisively for this goal; (2) 14 days
+detrained + hills + max HR + calf history is the precise setup that produced the July calf
+problem. **Asked for a calf status report before prescribing the next session.**
+
+Prelim mode unchanged: 2 × 25 min easy per week, 8:15–9:00/km, HR settling 145–155, walk the
+climbs if they push HR past 170.
