@@ -2,9 +2,13 @@
 
 ## Context
 
-You want the best possible IPPT 2.4km before enlisting (**likely Jan 2027 — ~22 weeks
-from today**), with A-Levels in Oct–Nov sitting in the middle of that window. Target is a
-clean pass, Silver as stretch, Gold only if data supports it.
+You want the best possible IPPT 2.4km before enlisting (**likely Jan 2027**), with prelims to
+22 Sep and A-Levels across Oct–Nov sitting in the middle of that window. Target is a clean pass,
+Silver as stretch, Gold only if the data supports it.
+
+**Read `ippt-scoring.md` first for targets, and the CALENDAR section below for the schedule.**
+The diagnosis section that follows is the original 6 Aug analysis, kept because it still
+describes the underlying problems accurately.
 
 I read the Strava export (everything from 6 Jul 2026 onward: 10 runs, plus GPX
 point-by-point for the time trial, both interval sessions, and today's 5k). The plan below
@@ -28,8 +32,8 @@ Average ~6 km/week. Today's 5.01 km is the longest run anywhere in the export. S
 means holding 4:20/km for 2.4 km — that is not available off 6 km/week, regardless of how
 the sessions are structured. Everything below exists to fix this number first.
 
-**2. You run at 90–96% of max on essentially every run.** Observed HRmax = **200** (2.4
-TT, 31 Jul).
+**2. You run at 90–96% of max on essentially every run.** Observed HRmax = **204**
+(14 Aug track trial; 200 was measured 31 Jul).
 
 - 29 Jul "intervals": HR 185–197 for the entire back half.
 - 4 Aug "intervals 2": after minute 4, HR **never dropped below 179**. Recovery floor
@@ -63,57 +67,25 @@ solved problem and you are choosing not to solve it.
 
 ---
 
-## Honest verdict on the targets
+## Targets — see `ippt-scoring.md`
 
-**Tested 6 Aug: 40 push-ups, 40 sit-ups.** This invalidates the assumption the original
-target times were built on. 10:24 and 9:44 assumed near-max statics; max for age group 1 is
-60/60. At 40/40 you are leaving a large number of points on the table, and every point missed
-there has to be repaid by the run — which is the most expensive place to buy points and the
-one thing that caps out at 50.
+**`ippt-scoring.md` holds the official SAF score tables and is the authority. Read it before
+quoting any target time.** Everything that was in this section before 19 Aug — Silver 10:24,
+Gold 9:44, and the conclusion that Gold was unreachable — was derived from figures that appear
+nowhere in the official table, and is **withdrawn**.
 
-Net effect: **the run times required for Silver and Gold are now faster than the ones you
-quoted, not slower.** How much faster depends on the exact per-rep point values. The public
-IPPT calculators disagree with each other and none publish MINDEF's granular table, and the
-official NS portal page is a JavaScript app that cannot be read programmatically — so these
-numbers have to come from you off the official slider or PDF.
+Current: **66 points** (push-ups 47 → 21, sit-ups 35 → 17, run ~12:50 → 28) — passing, +5 margin.
+That run figure is a 31 Jul flat-equivalent and is stale; the 26 Sep track test replaces it.
 
-**Thresholds: Silver 75, Gold 85. Pass = 61 per Ben; needs confirming.** Stations are
-25 / 25 / 50, minimum 1 point per station. The public ns.gov.sg text states a pass is 51
-total; 61 is normally the "Pass with Incentive" tier for NSmen. Which figure governs a
-**pre-enlistee** IPPT is the open question, and it is worth 10 points of target — resolve it
-before fixing the run times. Treating 61 as the working number in the meantime, since that
-is the conservative choice.
+| Push-ups / Sit-ups | Static | Pass 61 | Silver 75 | Gold 85 |
+|---|---|---|---|---|
+| 47 / 35 — now | 38 | 13:40 | 11:00 | 9:00 |
+| 55 / 50 | 45 | 14:40 | **12:30** | 10:10 |
+| 60 / 60 — max | 50 | 15:00 | **13:20** | **11:20** |
 
-Three numbers needed to make every target below exact:
-1. Points for **40 push-ups**, age group 1
-2. Points for **40 sit-ups**, age group 1
-3. Run points at **12:50**, and the times that score 31, 45 and 55 run points
-
-Directionally, though, this is good news, and it changes priorities:
-
-- **Pass (61 points)** — **not as locked in as first stated.** I earlier put the pass
-  threshold at 51; it is 61. With statics at 40/40 rather than near-max, the run has to
-  carry more, and a 12:50 may not clear it on its own. This needs confirming against the
-  official table before being treated as safe. It is still the least demanding of the three,
-  and the static work below is the fastest way to make it comfortable.
-- **Silver (10:24)** — a genuine stretch goal, and plausible. It needs ~2:26 off a 22-week
-  window that has A-Levels sitting in the middle of it. Achievable *if* the volume build in
-  Phase 1–2 actually happens. If you're still at 8 km/week in September, it won't.
-- **Gold** — **no, not by January**, and the 40/40 result makes it less realistic, not more.
-  Gold needs a sub-9:45 run even with strong statics, off a 6 km/week base with an exam block
-  mid-window. I'd be lying to you to hold it open. Gold becomes a realistic target during NS,
-  when training is daily and mandatory. Re-evaluated at the December re-test, not before.
-
-**The strategic point:** static points are far cheaper than run points. Taking push-ups from
-40 → 50+ and sit-ups from 40 → 55 is roughly 8–10 weeks at 15 minutes, three times a week.
-Taking 2:26 off your 2.4 km is four months of hard aerobic work with an exam block in the
-middle. Both are worth doing — but the statics are close to free, and you have been ignoring
-them. You said yourself you can train and rest to do more. Correct, so we're going to.
-
-Note also: you described yourself as strong upper body with anaerobic capacity fine. 40 is a
-respectable number but it is two-thirds of max, not "strong" in IPPT terms. That's the same
-pattern as the 4:00/km leg speed you believed you had — the data came in under the
-self-estimate both times. Worth calibrating against.
+**Sit-ups are the highest-leverage item in the plan.** 35 → 40 is +3 points for five reps —
+worth roughly 35 seconds off the 2.4 km, at no leg or aerobic cost, and progressable straight
+through the A-Level block when running cannot be.
 
 ---
 
@@ -122,10 +94,13 @@ self-estimate both times. Worth calibrating against.
 Cheapest points available. 3×/week, on easy or rest days. Does not load the calves and does
 not compete with running recovery, so it slots in anywhere.
 
-**Push-ups** — 5 sets at 60–70% of current max (24–28 reps), 90 s rest. Add one rep per set
-per week. Never train to failure more than once a fortnight.
+Current (30 Aug): **47 push-ups, 35 sit-ups.** Note 45 → 47 gained zero points — the table
+steps at 48, so one more rep is worth +1.
 
-**Sit-ups** — 5 sets at 60–70% of max, 60 s rest. Sit-ups respond faster than push-ups
+**Push-ups** — 5 sets of 28, 90 s rest. Add one rep per set per week. Never train to failure
+more than once a fortnight.
+
+**Sit-ups** — 5 sets of 25, 60 s rest, **plus one all-out 1-minute set weekly.** Sit-ups respond faster than push-ups
 because the limiter is pacing and technique, not strength. Practise at test cadence rather
 than sprinting the first 20 and stalling — same fault as your 2.4 km pacing.
 
@@ -138,20 +113,6 @@ large share of your remaining points should come from.
 
 Confirm the current test format (1-minute vs 2-minute windows per station) before building
 the sets around it.
-
----
-
-## Phase structure
-
-| Phase | Dates | Weeks | Focus | Volume |
-|---|---|---|---|---|
-| 1 — Base & durability | 6 Aug – 13 Sep | 6 | Aerobic base, calf conditioning, **no intervals for 3 weeks** | 10 → 19 km/wk |
-| 2 — Build | 14 Sep – 11 Oct | 4 | Add one real interval + one tempo per week | 22 → 26 km/wk |
-| 3 — A-Level hold | 12 Oct – 29 Nov | 7 | **Maintain, do not progress.** 3 runs/wk | 15–18 km/wk |
-| 4 — Post-exam build & sharpen | 1 Dec – enlistment | 6+ | Rebuild volume, then race-specific 2.4 work, then taper | 24 → 32 km/wk, then down |
-
-Phase 3 is the one people get wrong. The goal through A-Levels is to arrive at 30 Nov
-having **lost nothing**. Any attempt to progress during exams costs you December.
 
 ---
 
@@ -209,85 +170,6 @@ Total ~10 min. No run starts without this. No exceptions on "short" runs.
 **Stop rule:** ache is acceptable and expected. Cramping, seizing, or twitching under load
 means **stop the session and walk home.** Do not run through a cramp — that's how a strain
 happens, and a strain in September costs you the whole plan.
-
----
-
-## Re-test schedule
-
-Same route as 31 Jul, same time of day, same conditions. Nothing else is comparable.
-
-| Date | Purpose |
-|---|---|
-| ~5 Sep | End of Phase 1 — expect modest gain (~15–25 s); the point is the HR at pace |
-| ~10 Oct | End of Phase 2 — the real read on whether Silver is live |
-| ~27 Dec | Post-exam block — Gold gets re-evaluated here, or dropped |
-| Early Jan | Final pre-enlistment |
-
-Pacing instruction for every re-test: **first 400 m no faster than 5 s/km under target
-pace.** Your 4:30 opening split is worth more to you as 10 seconds at the finish.
-
----
-
-## Week 1 — starting tomorrow
-
-Today (5 Aug) is done: 5.01 km / 37:33, avg HR 170. Longest run in the file — good — but it
-was not the easy run it was meant to be, and it came the day after intervals *and* a squash
-session in the same 5-day block.
-
-| Day | Session |
-|---|---|
-| **Thu 6 Aug** | **Full rest.** Calf conditioning session #1. Start it today, not "next week". |
-| Fri 7 Aug | 30 min genuinely easy. **HR ≤150, no exceptions.** Expect 7:45–8:15/km. Full warmup. |
-| Sat 8 Aug | Rest or squash (if squash: it's your hard day for the week) + calf work |
-| Sun 9 Aug | 35 min easy, HR ≤150, + 4×20 s strides at the end |
-| Mon 10 Aug | Rest + calf work |
-| — | **Test push-ups & sit-ups** to standard on any easy or rest day this week. Report both. |
-
-Week 1 total: ~10 km. Build from there at roughly 10%/week with a cutback in Week 5.
-
----
-
-## Pending log update — Thu 6 Aug 2026
-
-Append to `training/log.md` and push to `claude/ippt-2.4km-coaching-vidj4o`:
-
-- **Thu 6 Aug — rest day taken as prescribed.** Calf tightness fully resolved after one day
-  off. Confirms the calf issue is load/warmup driven rather than structural — no injury to
-  manage, but the warmup protocol is now clearly non-optional.
-- Update standing status: calf status → clear as of 6 Aug.
-- **Static station test done: 40 push-ups, 40 sit-ups.** Clear the outstanding item. Record
-  that target run times are now unresolved pending official calculator figures, and that the
-  previously quoted 10:24 / 9:44 assumed near-max statics and are therefore too generous.
-- **Correct the pass threshold to 61** (previously logged as 51) and flag that a clean pass
-  is no longer to be treated as already secured.
-- New outstanding item: official points for 40 push-ups, 40 sit-ups, and the 2.4 km run
-  points table for age group 1, read off the NS portal slider or PDF.
-- Add static station training to standing status: 3×/week, 5 sets at 60–70% max, re-test
-  every 3 weeks.
-- **Fri 7 Aug — easy run not run.** Reported too tired at 21:47, chose sleep. Accepted:
-  legitimate fatigue after a block containing intervals, squash and a longest-ever 5k, with
-  only one rest day in it. Sleep was the higher-value option at that hour.
-- Week 1 revised around **squash on Sun 9 Aug**: Sat 8 = 30 min easy + calf conditioning #2,
-  Sun 9 = squash (hard day, no run on top), Mon 10 = rest + calf work, Tue 11 = 35 min easy
-  + 4×20 s strides. Easy running the day before squash is fine; Monday rest after it is not
-  negotiable, since squash is calf-dominant and the calves only just cleared.
-- Warmup protocol extended to **squash as well as runs** — cold starts into repeated hard
-  push-off are the worst calf offender in the week.
-- **Watch item — now confirmed, not hypothetical.** Sat 8 and Sun 9 also went untrained,
-  making it four consecutive rest days (Thu–Sun) since the 5 Aug run. Every one was scheduled
-  as an easy day, and squash remains on for Mon 10. The hard sessions get done; the easy ones
-  do not. Since volume is the binding constraint, this is the single most likely way the plan
-  fails. Raise it directly in the brief whenever two consecutive easy days are dropped.
-
-- **Week 1 revised again — squash moved from Sun 9 to Mon 10 Aug:**
-  - Sun 9 = 35 min easy (HR ≤150) + static session #1
-  - Mon 10 = squash (hard day), warm up with calf raises before play
-  - Tue 11 = rest + calf work
-  - Actual week (Mon 3 – Sun 9): 2.81 + 5.01 + ~4.3 ≈ **12 km, clearing the 10 km target.**
-    Cost of the four days off is real but modest; the risk is the trend, not this week.
-
-- **Static session #1 prescribed Sun 9:** push-ups 5×25 (90 s rest), sit-ups 5×25 (60 s rest)
-  — ~60–70% of tested max. Volume work, not failure work.
 
 ---
 
