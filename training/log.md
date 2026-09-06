@@ -35,7 +35,10 @@ calendar are in `ippt-plan.md`.
   1-min max and the limiter is pacing, not strength. Target a steady 40–45/min rhythm rather
   than sprinting the first 20 and stalling (same fault as his 2.4 km pacing).
   Re-test both every 3 weeks on a rest day.
-- **Enlistment:** likely January 2027. A-Levels Oct–Nov 2026.
+- **Enlistment:** likely January 2027. **Prelims end 22 Sep.** A-Levels assumed ~mid-Oct to end
+  Nov (unconfirmed). **Only ~8 weeks of real running work exist before enlistment**, with
+  December the sole genuine build block — see the calendar in `ippt-plan.md`.
+- **Next re-test: Sat 26 Sep, Evans track.** First clean measurement since 31 Jul.
 
 ### Target times — RESOLVED 19 Aug. See `ippt-scoring.md`.
 
@@ -331,5 +334,5 @@ contained a 15 m climb (hence the 10:05 split at 800 m).
 
 **Week to 6 Sep: 6.0 km across two runs** — meets the prelim-mode target of two runs.
 
-**Outstanding (asked three times, still unanswered): when do prelims end?** Needed to schedule
-the track re-test and restart Phase 1 building.
+**RESOLVED 6 Sep: prelims end 22 Sep.** Full calendar to enlistment now set in `ippt-plan.md`.
+Track re-test **Sat 26 Sep**. A-Levels assumed mid-Oct to end Nov — unconfirmed.

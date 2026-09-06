@@ -291,35 +291,63 @@ Append to `training/log.md` and push to `claude/ippt-2.4km-coaching-vidj4o`:
 
 ---
 
-## CURRENT WEEK — Sat 15 to Fri 21 Aug 2026
+## CALENDAR TO ENLISTMENT — set 6 Sep 2026
 
-Illness cleared. Normal Phase 1 base week, no gating.
+Prelims end **22 Sep** (confirmed). A-Levels assumed to start **~mid-Oct** and run to **end Nov**
+— unconfirmed, shift Phases B and C if the first paper differs. Enlistment likely **Jan 2027**.
 
-| Day | Session |
+**The honest shape: ~3 weeks after prelims, then A-Levels take Oct–Nov, then December is the
+only genuine training block.** That is roughly eight weeks of real running work before
+enlistment, not twenty.
+
+| Phase | Dates | Running | Statics |
+|---|---|---|---|
+| **A — Prelims** | 6–22 Sep | 2 × 25–30 min easy/wk (~8 km) | Sit-ups 4×/wk → **42** |
+| **B — Post-prelim** | 23 Sep – 12 Oct | 3–4 runs/wk, 12 → 18 km/wk. Strides; one light tempo late | Sit-ups → **48**, push-ups → **50** |
+| **C — A-Levels** | ~13 Oct – 30 Nov | **Hold.** 2–3 runs/wk, 25–30 min. No progression | Sit-ups → **55**, push-ups → **55** |
+| **D — Build** | 1 Dec – enlist | 4–5 runs/wk, 18 → 28 km/wk. Track intervals return | Maintain |
+
+### Re-tests — Evans track only
+
+| Date | Purpose |
 |---|---|
-| **Sat 15** | 25 min easy + statics |
-| **Sun 16** | 35 min easy + 4×20 s strides |
-| **Mon 17** | Rest + calf work + statics |
-| **Tue 18** | 30 min easy |
-| **Wed 19** | Rest, **or** squash — then it is the week's only hard day |
-| **Thu 20** | 40 min easy — longest of the week |
-| **Fri 21** | Rest + calf work + statics |
+| **Sat 26 Sep** | First clean measurement. Replaces the 31 Jul estimate now carrying everything. |
+| ~10 Oct | End of Phase B, before A-Levels |
+| ~20 Dec | Post-build. **Gold decided here, or dropped.** |
+| Early Jan | Final pre-enlistment |
 
-Four runs, **~14–15 km**. Up from 12 last week, on the Phase 1 curve toward 19 km/week by
-mid-September.
+Pacing instruction, every test: **first 400 m no faster than 5 s/km under target pace.** The
+14 Aug shape — out at 5:00, collapse to 6:40, close at 4:55 — is worth 30–40 s on its own.
 
-Sat is short because of the 14 Aug maximal effort (204 bpm), not because of illness — the day
-after a max effort is easy or nothing either way.
+### Volume curve revised DOWN, deliberately
 
-**No hard running this week.** The hard effort for this fortnight was already spent on the
-unscheduled 14 Aug trial. Next one is the early-September re-test on the MOE Evans track.
-Everything between now and then is base.
+The original Phase 1 called for 19 km/week by mid-September. Actual average since 6 Aug is about
+6 km/week, with one 16 km week. Restating a target missed every week is bookkeeping, not
+coaching. The figures above are ones he will actually hit.
 
-Every run: hold ~9:00/km and let HR drift into the low 160s · cadence 162–165 · full 10-min
-warmup. Statics 3× (push-ups 5×25 / 90 s, sit-ups 5×25 / 60 s).
+### Strategic consequence
 
-Stop for chest symptoms or fever. That is not caution about a cold — it is the one thing not
-to train through.
+Running improvement is largely unavailable until December — Oct–Nov can hold but not build.
+**Static improvement is available the whole time.** Sit-ups 35 → 55 by December is 3.5 months of
+15 minutes, 3–4× a week, and is worth more than the running can realistically deliver in the
+same window.
+
+**Projected: push-ups 55 + sit-ups 55 = 46 static points → Silver needs 12:40.** He ran ~12:50
+flat-equivalent in July off no training, before a December block. **Silver is live.**
+
+**Gold needs 11:20 with both statics maxed at 60/60.** 1:30 off current on ~8 weeks of running
+work — unlikely, but not the impossibility earlier claimed. Decided at the 20 Dec re-test.
+
+### Standing rules for every easy run
+
+1. **Hold pace, let HR drift.** Settle 145–155 in the first 10 min, hold that pace, allow drift
+   into the low 160s. Ceiling 170. Never slow to defend a number.
+2. **Finish easy.** Three consecutive runs have ended in a sprint (5:55/km at HR 193 on 4 Sep).
+   Jog the last 200 m in. A sprint finish costs a recovery day for no aerobic return.
+3. **Flat ground where possible.** Home routes carry **31 m of climbing per km** — holding easy
+   HR there is not possible. Use the Evans track for easy runs when reachable.
+4. **Cadence 162–165.** Currently 157–160.
+5. **Full 10-min warmup**, calf raises included. Every run, no exceptions.
 
 ## What I need from you going forward
 
