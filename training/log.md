@@ -307,3 +307,29 @@ problem. **Asked for a calf status report before prescribing the next session.**
 
 Prelim mode unchanged: 2 × 25 min easy per week, 8:15–9:00/km, HR settling 145–155, walk the
 climbs if they push HR past 170.
+
+### Fri 4 Sep 2026 — 4.31 km, 35:48, avg 8:18/km. Avg HR 162, max 193. Cadence 157.
+**Longest run since 9 Aug**, second longest on record. Duration is the win — it is the thing
+that has been missing all along.
+
+**Terrain finding: +133 m ascent / −139 m descent over 4.3 km = 31 m of climbing per km.**
+The 2 Sep route was also 31 m/km. His Bin Tong Park home routes are *consistently* this hilly.
+This explains much of the perceived backsliding: he has been comparing hill runs against the
+flatter 9/15/19 Aug runs and reading the difference as lost fitness.
+
+First km 8:45 at HR 146 — **not comparable** to 19 Aug's 7:43 at 151, because this first km
+contained a 15 m climb (hence the 10:05 split at 800 m).
+
+**Faults:**
+1. **Sprint finish again** — last three splits HR 180 → 187 → 193, closing at 5:55/km. Third
+   consecutive run doing this. Converts an easy run into a partly-hard one and costs a recovery
+   day for no aerobic return. Instruction: jog the last 200 m in.
+2. **Route choice.** At 31 m/km of climbing, holding 145–155 is not possible — this is terrain,
+   not indiscipline. **Directed to use the Evans track for easy runs where reachable**, which
+   also makes the pace-at-HR metric measurable without gradient guesswork.
+3. Cadence 157, down from 160. Minor.
+
+**Week to 6 Sep: 6.0 km across two runs** — meets the prelim-mode target of two runs.
+
+**Outstanding (asked three times, still unanswered): when do prelims end?** Needed to schedule
+the track re-test and restart Phase 1 building.
