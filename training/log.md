@@ -336,3 +336,22 @@ contained a 15 m climb (hence the 10:05 split at 800 m).
 
 **RESOLVED 6 Sep: prelims end 22 Sep.** Full calendar to enlistment now set in `ippt-plan.md`.
 Track re-test **Sat 26 Sep**. A-Levels assumed mid-Oct to end Nov — unconfirmed.
+
+### Mon 7 Sep 2026 — 2.59 km, 23:49, avg 9:11/km. Avg HR 154, max 172. Cadence 156.
+**Best-executed run in the dataset.** First run to combine a correct easy HR with stable pace.
+
+- **HR avg 154** — inside the prescribed 145–155 band. The only prior run with easy HR was
+  9 Aug (147), but there the pace collapsed 8:55 → 11:11. Tonight held 9:00–9:30 throughout;
+  the single 11:10 split coincides with a +7.6 m climb.
+- **No sprint finish** — breaks a three-run streak. The closing 7:45 split is a −9.6 m descent
+  at HR 165, i.e. gravity, not effort. Contrast 4 Sep: 5:55/km at HR 193.
+- Max 172 against a 170 ceiling, once, at the end. Effectively clean.
+- Terrain again **30 m/km of ascent** (+78 / −79 over 2.59 km). Holding 154 average on that is
+  harder than the flat numbers suggest.
+- Cadence 156, drifting down from 160. Nudge back toward 162–165.
+
+**Progress metric not readable from this run.** First km 9:10 at HR 140, against 7:43 at HR 151
+on 19 Aug — eleven beats apart, so the paces are not comparable. Do not score it either way.
+The 26 Sep track test exists precisely to resolve this.
+
+Week to date: 1 run. Prelim-mode target is 2/week.
