@@ -27,43 +27,55 @@ Awards: **Pass 61 · Silver 75 · Gold 85.** Minimum 1 point per station.
 
 Between those anchors the table moves in 10-second rows; interpolate down, never up.
 
-## Current standing (19 Aug 2026)
+## Current standing (10 Sep 2026)
 
 | Station | Result | Points |
 |---|---|---|
 | Push-ups | 45 | 21 |
-| Sit-ups | 35 | 17 |
+| Sit-ups | 45 | 21 |
 | 2.4 km | ~12:50 flat-equiv | 28 |
-| **Total** | | **66 — PASSING, +5 margin** |
+| **Total** | | **70 — PASSING, 5 off Silver** |
 
-The 14 Aug 13:58 (run sick) scores 21 → total 59, a fail. That is the real size of the margin.
+⚠️ Reps are **self-reported "on a good day"** and have swung: sit-ups 40 → 35 → 45, push-ups
+40 → 45 → 47 → 45. IPPT is one cold attempt on a date he does not choose. **A single honest
+cold test is outstanding** — plan against the floor, not the ceiling.
+
+The 14 Aug 13:58 (run ill) would score 21 → 63 on current statics. Still a pass, but thin.
 
 ## Run time required, by static level
 
 | Push-ups / Sit-ups | Static pts | Pass 61 | Silver 75 | Gold 85 |
 |---|---|---|---|---|
-| **45 / 35 — current** | 38 | 13:40 | 11:00 | 9:00 |
-| 50 / 45 | 43 | 14:30 | 12:10 | 9:50 |
-| 55 / 50 | 45 | 14:40 | **12:30** | 10:10 |
+| **45 / 45 — current** | 42 | 14:20 | 12:00 | 9:40 |
+| 48 / 48 | 44 | 14:30 | 12:20 | 9:50 |
+| 55 / 55 | 46 | 14:40 | **12:40** | 10:10 |
 | 60 / 60 — max | 50 | 15:00 | **13:20** | **11:20** |
 
-## Leverage — why sit-ups come first
+## Leverage — REVISED 10 Sep, the priority has flipped
+
+At 35 sit-ups the table was steep and statics were far and away the cheapest points. At 45 that
+section is climbed. From here:
 
 | Change | Points gained |
 |---|---|
-| **Sit-ups 35 → 40** (five reps) | **+3** |
-| Sit-ups 40 → 60 | +5 |
-| Push-ups 45 → 60 | +4 |
-| Run 12:50 → 12:00 | +5 |
-| Run 12:00 → 11:00 | +4 |
+| **Push-ups 45 → 48** (three reps) | **+1** |
+| **Sit-ups 45 → 48** (three reps) | **+1** |
+| Push-ups 45 → 60 (max) | +4 |
+| Sit-ups 45 → 60 (max) | +4 |
+| **Both statics maxed** | **+8** |
+| **Run 12:50 → 11:00** | **+9** |
 
-Five sit-ups ≈ 35 seconds off the 2.4 km. The whole sit-up station (35 → 60) is worth more
-than a minute off the run, costs nothing in leg or aerobic fatigue, and progresses through
-the A-Level block when running volume must be held flat.
+**Maxing both static stations is now worth less than the running.** This reverses the 19 Aug
+guidance, which was correct at 35 sit-ups and is not correct at 45. The December block is now
+the highest-value item in the plan.
 
-**Sit-ups are the highest-priority item in this plan.** Running still carries 50 of the 100
-points and the Phase 1 base build is unchanged — but the cheapest points available have been
-sitting untouched for a month.
+**Cheapest remaining move: 48 and 48.** Three reps each, +2 points, because both tables step
+at 48.
+
+## Target path to Silver
+
+Statics to 55/55 (46 pts) + a December running block reaching **12:40** = 75 = Silver.
+He ran ~12:50 flat-equivalent in July off no training. **Realistic for January.**
 
 ## Superseded
 
