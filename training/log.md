@@ -53,10 +53,9 @@ read it before quoting any target time. Never re-derive from calculators or memo
 **Standing 10 Sep: 70 points — passing (61), 5 off Silver (75).**
 Push-ups 45 → 21 · sit-ups 45 → 21 · run ~12:50 → 28.
 
-⚠️ **Do not quote 66 as current.** The run component is a 31 Jul flat-equivalent with only four
-runs since and an 11-day break through prelims. It is stale and pointing downward. The 14 Aug
-13:58 (run ill) scores 59 — a fail — which is the real size of the margin. Re-test before
-treating the pass as secure.
+⚠️ **The run component is not current.** It is a 31 Jul flat-equivalent carrying only a handful
+of runs and an 11-day prelim break behind it. The 26 Sep track test replaces it. The 14 Aug
+13:58 (run ill) would score 63 on current statics — still a pass, but thin.
 
 **Run time needed, by static level:**
 
