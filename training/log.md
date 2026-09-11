@@ -359,3 +359,31 @@ on 19 Aug — eleven beats apart, so the paces are not comparable. Do not score 
 The 26 Sep track test exists precisely to resolve this.
 
 Week to date: 1 run. Prelim-mode target is 2/week.
+
+### Fri 11 Sep 2026 — 4.26 km, 34:32, avg 8:07/km. Avg HR 173, max 196. Cadence 155.
+**He self-diagnosed this as too hard before any analysis.** That judgement is new and is the
+skill developing — note it.
+
+| HR band | Time | % |
+|---|---|---|
+| 145–155 (target) | 0:55 | **3%** |
+| 156–165 | 4:51 | 14% |
+| 166–170 | 5:52 | 17% |
+| **>170 (over ceiling)** | **22:18** | **65%** |
+
+**Cause is simply pace.** Mon 7 Sep: 9:11/km at HR 154 on 30 m/km terrain. Tonight: 8:07/km at
+HR 173 on 28 m/km. Same route type, only pace moved. **~1:00/km is his entire easy/not-easy
+boundary right now** — a useful, concrete number to coach against.
+
+Sprint finish returned: last 400 m at 6:50/km, HR 192 → 196. Mon 7 Sep had broken a three-run
+streak of this.
+
+**Watch, do not yet conclude:** 8:07/km at HR 173 vs 8:18/km at HR 162 on 4 Sep is 11 beats
+worse for a slightly faster pace. Within noise for heat and poor sleep, and he is in the final
+stretch of prelims. Elevated HR at a given pace is the classic under-recovery signal — **if the
+next easy run reads the same, treat it as fatigue and reduce load.**
+
+Prescribed: Sat 12 rest · Sun 13 30 min genuinely easy (**the planned 45 min long run is
+cancelled** — two days after a hard effort is not when to add his longest ever) · prelim mode to
+22 Sep, nothing hard. 12 days from the 23 Sep test, one hard run costs nothing; do not
+compensate for it.
