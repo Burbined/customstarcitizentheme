@@ -26,15 +26,17 @@ calendar are in `ippt-plan.md`.
   Low cadence = longer stride = more forefoot braking = calf load. Fixes two problems at once.
 - **Health:** 14 Aug trial run on sleep debt + onset of illness. **Clearing as of 15 Aug** —
   train normally. Stop only for chest symptoms or fever.
-- **Static stations (10 Sep): 45 push-ups (21 pts), 45 sit-ups (21 pts) = 42 static points.**
-  Sit-ups 35 → 45 is **+4 points**, the largest single gain since the plan began.
-  ⚠️ Self-reported "on a good day", and the figures have swung: sit-ups 40 → 35 → 45, push-ups
-  40 → 45 → 47 → 45. **One honest cold test is outstanding.** Plan against the floor.
-  **Next cheap step: 48 / 48** — three reps each, +2 points, both tables step at 48.
-- **PRIORITY FLIPPED 10 Sep.** Statics were the cheapest points at 35 sit-ups; at 45 that steep
-  section is climbed. Maxing *both* stations from here is +8, while the run 12:50 → 11:00 is +9.
-  **The December running block is now the highest-value item in the plan.** Do not keep
-  repeating the "sit-ups first" line — it was right in August and is not right now.
+- **Static stations (11 Sep, tested after a hard run): 55 push-ups (23 pts), 43 sit-ups
+  (20 pts) = 43 static points.** Running does not fatigue chest/triceps, so 55 fatigued is
+  plausible; sit-ups do get hit, so 43 vs 45 fresh is consistent.
+  ⚠️ **Push-up reports span 40 → 45 → 47 → 45 → 55 — a 15-rep range.** Form strictness
+  unresolved; asked which test was strict. **Plan Silver against 45 (21 pts) until settled.**
+- **ONE REP FROM TWO POINTS.** Both tables step just above him: **56 push-ups = 24** (one more),
+  **44 sit-ups = 21** (one more). Two reps total is +2 points — the cheapest item in the plan.
+- **PRIORITY, 10 Sep:** statics were the cheapest points at 35 sit-ups; that steep section is
+  climbed. Maxing both stations from 45/45 is +8, while the run 12:50 → 11:00 is +9. **The
+  December running block is the highest-value item.** Do not keep repeating "sit-ups first" —
+  right in August, not right now. (The two single reps above are the exception: take them.)
 - **Static training:** 3×/week. Push-ups **5×28** (90 s rest), add a rep per set weekly.
   Sit-ups **5×25** (60 s rest) **plus one all-out 1-minute set weekly** — the test is a
   1-min max and the limiter is pacing, not strength. Target a steady 40–45/min rhythm rather
@@ -50,8 +52,8 @@ calendar are in `ippt-plan.md`.
 Official SAF score tables supplied and transcribed. **`ippt-scoring.md` is the authority —
 read it before quoting any target time. Never re-derive from calculators or memory.**
 
-**Standing 10 Sep: 70 points — passing (61), 5 off Silver (75).**
-Push-ups 45 → 21 · sit-ups 45 → 21 · run ~12:50 → 28.
+**Standing 11 Sep: 71 points — passing (61), 4 off Silver (75).**
+Push-ups 55 → 23 · sit-ups 43 → 20 · run ~12:50 → 28.
 
 ⚠️ **The run component is not current.** It is a 31 Jul flat-equivalent carrying only a handful
 of runs and an 11-day prelim break behind it. The 26 Sep track test replaces it. The 14 Aug
@@ -61,10 +63,14 @@ of runs and an 11-day prelim break behind it. The 26 Sep track test replaces it.
 
 | PU / SU | Static | Pass 61 | Silver 75 | Gold 85 |
 |---|---|---|---|---|
-| 45 / 45 now | 42 | 14:20 | **12:00** | 9:40 |
-| 48 / 48 | 44 | 14:30 | 12:20 | 9:50 |
-| 55 / 55 | 46 | 14:40 | **12:40** | 10:10 |
+| 45 / 43 conservative | 41 | 14:10 | 12:00 | 9:30 |
+| **55 / 43 now** | **43** | **14:30** | **12:10** | 9:50 |
+| 56 / 44 (+2 reps) | 45 | 14:40 | **12:30** | 10:10 |
+| 60 / 55 | 48 | 14:50 | 13:00 | 10:40 |
 | 60 / 60 max | 50 | 15:00 | 13:20 | 11:20 |
+
+**23 Sep pass is not in question** at any static level above — needs 14:10–14:30, worst ever
+2.4 km is 13:58 (run ill and badly paced).
 
 **Target path to Silver:** statics 55/55 + a December block reaching **12:40**. He ran ~12:50
 flat-equivalent in July off no training. Realistic for January.

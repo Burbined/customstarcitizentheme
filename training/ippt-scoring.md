@@ -27,29 +27,45 @@ Awards: **Pass 61 · Silver 75 · Gold 85.** Minimum 1 point per station.
 
 Between those anchors the table moves in 10-second rows; interpolate down, never up.
 
-## Current standing (10 Sep 2026)
+## Current standing (11 Sep 2026)
 
 | Station | Result | Points |
 |---|---|---|
-| Push-ups | 45 | 21 |
-| Sit-ups | 45 | 21 |
+| Push-ups | 55 | 23 |
+| Sit-ups | 43 | 20 |
 | 2.4 km | ~12:50 flat-equiv | 28 |
-| **Total** | | **70 — PASSING, 5 off Silver** |
+| **Total** | | **71** |
 
-⚠️ Reps are **self-reported "on a good day"** and have swung: sit-ups 40 → 35 → 45, push-ups
-40 → 45 → 47 → 45. IPPT is one cold attempt on a date he does not choose. **A single honest
-cold test is outstanding** — plan against the floor, not the ceiling.
+Tested after a hard 34-min run. Running loads legs, not chest/triceps, so 55 push-ups fatigued
+is plausible; sit-ups do get hit (hip flexors, core), so 43 vs 45 fresh is consistent.
 
-The 14 Aug 13:58 (run ill) would score 21 → 63 on current statics. Still a pass, but thin.
+⚠️ **Push-up reports span 40 → 45 → 47 → 45 → 55 — a 15-rep range.** Form strictness is
+unresolved and Silver cannot be planned precisely until it is. Conservative planning figure:
+**45 push-ups (21 pts)**. Optimistic: 55 (23 pts).
+
+## ONE REP FROM TWO POINTS
+
+Both tables step immediately above where he sits:
+
+| Station | Now | Pts | One more rep |
+|---|---|---|---|
+| Push-ups | 55 | 23 | **56 → 24** |
+| Sit-ups | 43 | 20 | **44 → 21** |
+
+**Two reps total = +2 points.** Cheapest item in the entire plan.
 
 ## Run time required, by static level
 
 | Push-ups / Sit-ups | Static pts | Pass 61 | Silver 75 | Gold 85 |
 |---|---|---|---|---|
-| **45 / 45 — current** | 42 | 14:20 | 12:00 | 9:40 |
-| 48 / 48 | 44 | 14:30 | 12:20 | 9:50 |
-| 55 / 55 | 46 | 14:40 | **12:40** | 10:10 |
+| 45 / 43 — conservative | 41 | 14:10 | 12:00 | 9:30 |
+| **55 / 43 — tonight** | **43** | **14:30** | **12:10** | 9:50 |
+| 56 / 44 — two more reps | 45 | 14:40 | **12:30** | 10:10 |
+| 60 / 55 | 48 | 14:50 | **13:00** | 10:40 |
 | 60 / 60 — max | 50 | 15:00 | **13:20** | **11:20** |
+
+**Pass on 23 Sep is not in question** at any of these static levels: he needs 14:10–14:30, and
+his worst 2.4 km ever — run ill, sleep-deprived, badly paced — was 13:58.
 
 ## Leverage — REVISED 10 Sep, the priority has flipped
 
