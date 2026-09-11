@@ -39,9 +39,12 @@ Between those anchors the table moves in 10-second rows; interpolate down, never
 Tested after a hard 34-min run. Running loads legs, not chest/triceps, so 55 push-ups fatigued
 is plausible; sit-ups do get hit (hip flexors, core), so 43 vs 45 fresh is consistent.
 
-⚠️ **Push-up reports span 40 → 45 → 47 → 45 → 55 — a 15-rep range.** Form strictness is
-unresolved and Silver cannot be planned precisely until it is. Conservative planning figure:
-**45 push-ups (21 pts)**. Optimistic: 55 (23 pts).
+⚠️ **The 55 was to failure, UNTIMED.** IPPT is **one minute per station** (confirmed 11 Sep) —
+only reps inside the minute count. 55 push-ups in 60 s is ~1 rep/second, a genuinely fast
+number; a to-failure set over 90–120 s is a different test. This is the likely explanation for
+45 cold one day and 55 the next.
+**Push-up reports span 40 → 45 → 47 → 45 → 55.** Plan against **45 (21 pts)** until a properly
+timed 60-second test is reported.
 
 ## ONE REP FROM TWO POINTS
 

@@ -29,19 +29,23 @@ calendar are in `ippt-plan.md`.
 - **Static stations (11 Sep, tested after a hard run): 55 push-ups (23 pts), 43 sit-ups
   (20 pts) = 43 static points.** Running does not fatigue chest/triceps, so 55 fatigued is
   plausible; sit-ups do get hit, so 43 vs 45 fresh is consistent.
-  ⚠️ **Push-up reports span 40 → 45 → 47 → 45 → 55 — a 15-rep range.** Form strictness
-  unresolved; asked which test was strict. **Plan Silver against 45 (21 pts) until settled.**
+  ⚠️ **The 55 was to failure, UNTIMED.** IPPT is **1 minute per station** (confirmed 11 Sep) —
+  only reps inside the minute score. 55 in 60 s is ~1 rep/second; a to-failure set over
+  90–120 s is a different test, and is the likely reason for 45 cold one day and 55 the next.
+  **Plan Silver against 45 (21 pts) until a properly timed 60-second test is reported.**
 - **ONE REP FROM TWO POINTS.** Both tables step just above him: **56 push-ups = 24** (one more),
   **44 sit-ups = 21** (one more). Two reps total is +2 points — the cheapest item in the plan.
 - **PRIORITY, 10 Sep:** statics were the cheapest points at 35 sit-ups; that steep section is
   climbed. Maxing both stations from 45/45 is +8, while the run 12:50 → 11:00 is +9. **The
   December running block is the highest-value item.** Do not keep repeating "sit-ups first" —
   right in August, not right now. (The two single reps above are the exception: take them.)
-- **Static training:** 3×/week. Push-ups **5×28** (90 s rest), add a rep per set weekly.
-  Sit-ups **5×25** (60 s rest) **plus one all-out 1-minute set weekly** — the test is a
-  1-min max and the limiter is pacing, not strength. Target a steady 40–45/min rhythm rather
-  than sprinting the first 20 and stalling (same fault as his 2.4 km pacing).
-  Re-test both every 3 weeks on a rest day.
+- **Static training — REVISED 11 Sep. Timed sets, not failure sets.** The test is a 1-minute
+  max, so the limiter is sustainable rep cadence inside that window, not absolute capacity.
+  **5 × 40 seconds** at a holdable rhythm, 90 s rest, both stations, 3×/week.
+  **Plus one full 60-second test set weekly** per station, to learn the pace.
+  Failure work **no more than once a fortnight** — he has been defaulting to it.
+  Pacing fault mirrors his running: sprints the first 20 reps, stalls at 35, finishes empty.
+  A steady sustainable rhythm beats a fast start.
 - **Enlistment:** likely January 2027. **Prelims end 22 Sep.** A-Levels assumed ~mid-Oct to end
   Nov (unconfirmed). **Only ~8 weeks of real running work exist before enlistment**, with
   December the sole genuine build block — see the calendar in `ippt-plan.md`.
